@@ -54,9 +54,9 @@ int main {
 // Comparar atributos - ex area
 
 int main() {
-float area = ; 
+float area = 1521.11; 
 
-if (area >  ) {
+if (area > 1200.25) {
     printf("carta1 tem área maior\n");
 } else { 
     printf("carta2 tem área maior\n"); 
