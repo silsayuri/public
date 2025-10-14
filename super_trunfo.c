@@ -64,5 +64,6 @@ int main() {
         printf("As cartas têm área igual\n");
     }
 
+    
     return 0;
 }
