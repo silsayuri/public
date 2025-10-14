@@ -53,7 +53,6 @@ int main {
 
 // Comparar atributos - ex area
 
-int main() {
 float area = 1521.11; 
 
 if (area > 1200.25) {
