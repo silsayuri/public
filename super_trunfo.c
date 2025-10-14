@@ -15,7 +15,7 @@ int main {
     struct Carta 
     printf("SUPER TRUNFO")
 
-    Carta 1
+    // Leitura da Carta 1
     printf("digitar carta 1:\n");
     printf("Estado (A-H): ");
     scanf(" %c", &carta1.estado);
@@ -25,7 +25,7 @@ int main {
     scanf("%[^\n]", &carta1.cidade);
     printf("populacao: ");
     scanf("%d", &carta1.populacao);
-    printf("area (km²): ");
+    printf("tamanho da area (km²): ");
     scanf("%f", &carta1.area);
     printf("PIB: ");
     scanf("%f"), &carta1.pib);
@@ -33,7 +33,7 @@ int main {
     scanf("%d"), &carta1.pontos_turisticos);
     printf("\n") 
 
-    Carta 2
+    // Leitura da Carta 2
     printf("digitar carta 2:\n");
     printf("Estado (A-H): ");
     scanf(" %c", &carta2.estado);
@@ -50,14 +50,5 @@ int main {
     printf("Pontos Turisticos: ");
     scanf("%d"), &carta2.pontos_turisticos);
     printf("\n"); 
-
-
 }
 
-if (carta1.populacao>carta2.populacao){
-    printf("carta 1 vence populacao!\n");
-    } else {
-     printf("carta 2 vence populacao!\n");
-
-     return 0
-    }
