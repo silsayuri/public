@@ -1,6 +1,4 @@
-# public
-public repository
-SUPER TRUNFO_DESAFIO LOGICA 
+# SUPER TRUNFO_DESAFIO LOGICA 
 Comparar o atributo ÁREA de duas cartas do SUPER TRUNFO através de estruturas de decisão.
 Apresentar o resultado se a carta contém a maior ÁREA ou não. 
 
