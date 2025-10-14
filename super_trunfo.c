@@ -50,5 +50,17 @@ int main {
     printf("Pontos Turisticos: ");
     scanf("%d"), &carta2.pontos_turisticos);
     printf("\n"); 
-}
 
+// Comparar atributos - ex area
+
+int main() {
+float area = ; 
+
+if (area >  ) {
+    printf("carta1 tem área maior\n");
+} else { 
+    printf("carta2 tem área maior\n"); 
+    
+  return 0;
+}
+    
