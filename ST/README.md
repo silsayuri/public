@@ -23,3 +23,5 @@ Número de Pontos Turísticos: 30
 
 Para o exercício proposto, vamos utilizar apenas as informações das cartas referentes ao tamanho da área em quilômetros quadrados. 
 Para testar se funciona o código criado, a resposta deve ser: carta1 área maior
+
+O primeiro código criado apresentou diversos erros (https://github.com/silsayuri/public/commits/main/) e salvei um novo arquivo. 
